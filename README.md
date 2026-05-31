@@ -41,6 +41,17 @@ Crear una interfaz moderna e interactiva para el monitoreo de métricas de negoc
 
 Este dashboard fue desarrollado con fines demostrativos para representar un entorno de análisis empresarial y monitoreo de métricas clave.
 
+## Demo en vivo
+
+Puedes visualizar el dashboard publicado en:
+
+🔗 https://micaxgeo-del.github.io/analytics-control-center/
+
+## Repositorio
+
+🔗 https://github.com/micaxgeo-del/analytics-control-center
+
+
 ## Autora
 
 **Micaela Feriale**
